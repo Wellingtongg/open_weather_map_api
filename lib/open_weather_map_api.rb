@@ -24,7 +24,6 @@ class OpenWeatherMapApi
           return JSON.parse(response.body)
         end
       rescue => err
-        puts err
         return nil
       end
     end

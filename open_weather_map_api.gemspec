@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'open_weather_map_api'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.summary     = "Implementation of OpenWeatherMap API"
   s.description = "Get Weather and Forecast for the city you want easily"
   s.authors     = ["Wellington Gomes Graciani"]
